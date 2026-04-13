@@ -21,46 +21,52 @@
             <button type="submit">Search News</button>
         </form>
 
+        {% if error %}
+            <div class="error-box">{{ error }}</div>
+        {% endif %}
+
         {% if topic %}
-            <p class="results-info">Showing results for: <strong>{{ topic }}</strong></p>
+            <p class="results-info">
+                Showing results for: <strong>{{ topic }}</strong>
+            </p>
         {% else %}
             <p class="results-info">Showing default BBC headlines.</p>
         {% endif %}
 
-        <div class="table-wrapper">
-            <table>
-                <thead>
-                    <tr>
-                        <th>Source</th>
-                        <th>Title</th>
-                        <th>Published</th>
-                        <th>Description</th>
-                        <th>Sentiment</th>
-                        <th>Score</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    {% for article in articles %}
-                    <tr>
-                        <td>{{ article.source }}</td>
-                        <td>
-                            <a href="{{ article.link }}" target="_blank" rel="noopener noreferrer">
-                                {{ article.title }}
-                            </a>
-                        </td>
-                        <td>{{ article.pub_date }}</td>
-                        <td>{{ article.description }}</td>
-                        <td class="{{ article.sentiment_label }}">
-                            {{ article.sentiment_label }}
-                        </td>
-                        <td>{{ article.sentiment_score }}</td>
-                    </tr>
-                    {% endfor %}
-                </tbody>
-            </table>
-        </div>
-
-        {% if not articles %}
+        {% if articles %}
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Source</th>
+                            <th>Title</th>
+                            <th>Published</th>
+                            <th>Description</th>
+                            <th>Sentiment</th>
+                            <th>Score</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for article in articles %}
+                        <tr>
+                            <td>{{ article.source }}</td>
+                            <td>
+                                <a href="{{ article.link }}" target="_blank" rel="noopener noreferrer">
+                                    {{ article.title }}
+                                </a>
+                            </td>
+                            <td>{{ article.pub_date }}</td>
+                            <td>{{ article.description }}</td>
+                            <td class="{{ article.sentiment_label }}">
+                                {{ article.sentiment_label }}
+                            </td>
+                            <td>{{ article.sentiment_score }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        {% else %}
             <p>No articles found.</p>
         {% endif %}
     </div>
