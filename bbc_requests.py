@@ -6,7 +6,9 @@ from time import sleep
 today = date.today()
 print("Today's date:", today)
 
-filename = fr"C:\Users\Lenovo\OneDrive\Backup_23102024\d_drive\PERSONAL\Career\Programming\Python\Udemy\Colt_Steele\bbc_requests_topics_{today}.txt"
+#filename = fr"C:\Users\Lenovo\OneDrive\Backup_23102024\d_drive\PERSONAL\Career\Programming\Python\Udemy\Colt_Steele\bbc_requests_topics_{today}.txt"
+filename = fr"/Users/sujaymuramalla/Documents/Projects/python_training/output_bbc/bbc_requests_topics_{today}.txt"
+
 print (filename)
 
 
@@ -28,7 +30,7 @@ soup = BeautifulSoup(res.text,"html.parser")
 
 print ("-------------------------------------------------------------------------------------------")
 d = soup.find_all(class_="sc-9d830f2a-3")
-#print (type(d))
+print (type(d))
 #print (d)
 print (f"length of result set: {len(d)}")
 
@@ -39,7 +41,7 @@ print ("------------------------------------------------------------------------
 
 topics=[]
 for topic in d:
-	#print (topic.get_text())
+	print (topic.get_text())
 	topics.append(topic.get_text())
 	write_bbc_data(topic.get_text())
 # print (topics)
