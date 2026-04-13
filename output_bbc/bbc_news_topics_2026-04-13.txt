@@ -1,0 +1,222 @@
+1. Southport killer's parents failed in 'moral duty' to report son, public inquiry finds
+   Link: https://www.bbc.com/news/articles/cx2rgyeqv1yo?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 19:26:15 GMT
+   Description: Failing to appreciate the danger the killer posed led to "catastrophic consequences", an inquiry finds.
+   Sentiment: negative (score=-0.167)
+
+2. Five key failures of killer's parents and agencies ahead of Southport attack
+   Link: https://www.bbc.com/news/articles/c239zz1m324o?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 13:46:41 GMT
+   Description: Inquiry Chair Sir Adrian Fulford said the Southport attack could have been prevented if authorities and the killer's parents had acted more quickly.
+   Sentiment: positive (score=0.278)
+
+3. EasyJet passengers describe EU border 'nightmare' after flight leaves without them
+   Link: https://www.bbc.com/news/articles/cn897e8280do?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 12:56:34 GMT
+   Description: Airlines warn of further disruption due to the introduction of a new EU digital border control system.
+   Sentiment: neutral (score=0.003)
+
+4. Henry Zeffman: Starmer seeks closer ties with EU - and doesn't mind reopening Brexit divisions
+   Link: https://www.bbc.com/news/articles/c0rxj4yygdwo?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 12:13:42 GMT
+   Description: Keir Starmer's approach has provoked anger from the Conservatives and Reform UK.
+   Sentiment: negative (score=-0.7)
+
+5. Italian PM condemns ally Trump over 'unacceptable' Pope criticism
+   Link: https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 17:32:43 GMT
+   Description: Italy's prime minister and the US president are close allies, but Trump has refused to apologise to the "very weak" Pope Leo XIV.
+   Sentiment: negative (score=-0.244)
+
+6. Ex-Nigerian oil minister denies taking bribes
+   Link: https://www.bbc.com/news/articles/crl141ern74o?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 16:05:59 GMT
+   Description: Diezani Alison-Madueke is accused of living “a life of luxury” in the UK at properties paid for and refurbished by industry figures.
+   Sentiment: neutral (score=0.0)
+
+7. Orbán era swept away by Péter Magyar's Hungary election landslide
+   Link: https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 11:03:12 GMT
+   Description: Viktor Orbán's 16-year rule is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.
+   Sentiment: neutral (score=0.0)
+
+8. Man who threw girlfriend from tower block jailed
+   Link: https://www.bbc.com/news/articles/cedeze6w5wqo?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 14:38:16 GMT
+   Description: Jordan Herring, 22, is jailed for five years following the attack in November 2022.
+   Sentiment: neutral (score=0.0)
+
+9. Trump deletes post depicting him as Jesus-like figure after backlash
+   Link: https://www.bbc.com/news/articles/c17v8y0z9z2o?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 17:37:49 GMT
+   Description: Christian allies of the president call the AI-generated image offensive as Trump says he thought it showed him as a doctor.
+   Sentiment: neutral (score=0.0)
+
+10. Britney Spears goes into rehab after driving under the influence arrest
+   Link: https://www.bbc.com/news/articles/ckgw8dy08m9o?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 08:14:14 GMT
+   Description: The singer voluntarily checks herself into a treatment facility, three weeks before her court date.
+   Sentiment: neutral (score=-0.05)
+
+11. Lib Dems call for inquiry into Farage Bitcoin deal
+   Link: https://www.bbc.com/news/articles/cd9vgw2g3w2o?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 20:26:12 GMT
+   Description: The Reform UK leader is a shareholder in British bitcoin company Stack and appeared in a promotional video.
+   Sentiment: neutral (score=0.0)
+
+12. US blockade of Iranian ports explained in two minutes
+   Link: https://www.bbc.com/news/videos/cd9vg5vggvqo?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 17:33:26 GMT
+   Description: The BBC's security correspondent Frank Gardner explains how the US blockade of Iranian ports will work.
+   Sentiment: neutral (score=0.0)
+
+13. This blockade is a gamble. Will it work?
+   Link: https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 15:27:43 GMT
+   Description: The US military is gambling on the blockade denying Iran vital trade - but questions remain on whether the bet will pay off.
+   Sentiment: neutral (score=0.0)
+
+14. Israelis war-weary but most oppose Iran ceasefire, poll suggests
+   Link: https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 19:20:08 GMT
+   Description: The vast majority did not believe Hezbollah or Iran had been severely weakened by weeks of Israeli and US attacks, according to the poll.
+   Sentiment: positive (score=0.25)
+
+15. Tracking the ships crossing the Strait of Hormuz
+   Link: https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 16:37:57 GMT
+   Description: The first vessel has crossed the Strait of Hormuz after the US imposed a military blockade of Iran's ports.
+   Sentiment: neutral (score=0.075)
+
+16. Trump threat to Iranian civilians 'wrong', Starmer says
+   Link: https://www.bbc.com/news/articles/cd7j0p09j7no?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 16:18:38 GMT
+   Description: The PM condemns the US president's threat that a "whole civilisation" would die unless Iran agreed to end the war.
+   Sentiment: negative (score=-0.15)
+
+17. Euphoria is back with more shock and scandal, but mixed reviews
+   Link: https://www.bbc.com/news/articles/cr51lzjljnyo?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 12:03:12 GMT
+   Description: Many critics say the third season of the hit HBO drama doesn't live up to its previous heights.
+   Sentiment: positive (score=0.139)
+
+18. Katya Adler: Celebration in Budapest, relief in Brussels but a blow for Moscow
+   Link: https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 08:28:35 GMT
+   Description: European leaders share Hungarians' joy over the ousting of Vladimir Putin's EU ally, writes the BBC's Europe editor.
+   Sentiment: positive (score=0.4)
+
+19. Where does McIlroy rank among golf's greats after Masters defence?
+   Link: https://www.bbc.com/sport/golf/articles/cz78ge3g77qo?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 04:16:11 GMT
+   Description: Rory McIlroy has added a rare Masters defence to the career Grand Slam - now he is aiming to keep climbing the all-time list of major victories.
+   Sentiment: neutral (score=0.016)
+
+20. How do you rebuild your life after marrying a conman?
+   Link: https://www.bbc.com/news/articles/c20q97yy21ro?at_medium=RSS&at_campaign=rss
+   Published: Sun, 12 Apr 2026 23:40:46 GMT
+   Description: A woman who wed a romance conman says victims receive abuse on social media "blaming" them.
+   Sentiment: neutral (score=0.033)
+
+21. The surprising reality of how teenage girls still define themselves
+   Link: https://www.bbc.com/news/articles/c62je1g000eo?at_medium=RSS&at_campaign=rss
+   Published: Sun, 12 Apr 2026 23:06:03 GMT
+   Description: Despite strides in feminism, why do teen girls still seem to view themselves through the lens of boys?
+   Sentiment: positive (score=0.233)
+
+22. 'I should have been safe on a pavement' - woman's injuries show reality of being hit by an e-bike
+   Link: https://www.bbc.com/news/articles/c4glry7k2z9o?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 04:58:30 GMT
+   Description: Sandy Peters broke her nose, cheekbones and teeth when she was crashed into by a Forest e-bike rider.
+   Sentiment: positive (score=0.5)
+
+23. Ranking the biggest Premier League title slip-ups
+   Link: https://www.bbc.com/sport/football/articles/c0ljk11e390o?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 12:22:16 GMT
+   Description: With Arsenal desperate to banish their title-bottling demons, we look at the top 10 teams who have let Premier League leads slip.
+   Sentiment: neutral (score=-0.05)
+
+24. Deep-fried food and daily sausage rolls banned in new school dinner plans
+   Link: https://www.bbc.com/news/articles/c624vezv52do?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 08:36:55 GMT
+   Description: Schools are being told to cut down on sugary desserts, and provide more vegetables and whole grains.
+   Sentiment: positive (score=0.136)
+
+25. Woman fined £40 for £4k sale of fake Oasis tickets
+   Link: https://www.bbc.com/news/articles/c0q93213jw1o?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 14:58:01 GMT
+   Description: Rosie Slater is also handed a 12-month community order after making £4,000 from fraudulent sales.
+   Sentiment: negative (score=-0.5)
+
+26. US judge dismisses $10bn Trump defamation suit against Wall Street Journal
+   Link: https://www.bbc.com/news/articles/c995j57xepmo?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 14:30:27 GMT
+   Description: Trump sued the newspaper and its owners, including Rupert Murdoch, in a Florida federal court over a birthday book for Jeffrey Epstein.
+   Sentiment: neutral (score=0.0)
+
+27. Rapper Offset hits Coachella stage days after being shot
+   Link: https://www.bbc.com/news/articles/clyxzk4044po?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 11:09:37 GMT
+   Description: After his performance, the former Migos rapper was described by his mum as a "miracle walking".
+   Sentiment: neutral (score=0.0)
+
+28. Palestine Action group cleared of violent disorder
+   Link: https://www.bbc.com/news/articles/cwyvgvwvpqlo?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 16:59:05 GMT
+   Description: The three defendants continue to face a charge of criminal damage.
+   Sentiment: negative (score=-0.367)
+
+29. Is the bite of the false widow spider dangerous?
+   Link: https://www.bbc.com/news/articles/cwyvg1jyry0o?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 13:41:57 GMT
+   Description: Experts say noble false widow spiders could be to blame for an increase in bites being treated in hospital.
+   Sentiment: negative (score=-0.2)
+
+30. Roblox defends expanded age‑checks after parents raise concerns over errors
+   Link: https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 12:19:13 GMT
+   Description: With 144m daily users, the gaming company is extending its tech to introduce two age‑specific accounts.
+   Sentiment: neutral (score=0.0)
+
+31. The "Systemic Failures" Before The Southport Attack
+   Link: https://www.bbc.co.uk/sounds/play/p0nbywqg?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 19:03:00 GMT
+   Description: Inquiry finds Southport killer's family and authorities could have prevented attack.
+   Sentiment: neutral (score=0.0)
+
+32. McIlroy makes major warning after Masters triumph
+   Link: https://www.bbc.com/sport/golf/articles/cj0vdv3qzpdo?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 14:47:23 GMT
+   Description: After retaining his Masters title, Rory McIlroy spent four hours dealing with presentations and interviews but was still smiling for the final one, writes Iain Carter.
+   Sentiment: neutral (score=-0.013)
+
+33. Man Utd's Martinez sent off for hair-pull against Leeds
+   Link: https://www.bbc.com/sport/football/articles/c145mdge2gdo?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 20:39:35 GMT
+   Description: Manchester United defender Lisandro Martinez is sent off after 56 minutes for pulling the hair of Leeds United striker Dominic Calvert-Lewin at Old Trafford.
+   Sentiment: neutral (score=0.1)
+
+34. Spurs captain Romero out for rest of season with injury
+   Link: https://www.bbc.com/sport/football/articles/c98mqrpz50vo?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 15:51:49 GMT
+   Description: Tottenham captain Cristian Romero is set to miss the rest of the season with the knee injury he sustained in their 1-0 defeat at Sunderland.
+   Sentiment: neutral (score=0.0)
+
+35. Another Sunday In Hell: The brutal race that thwarts the greats
+   Link: https://www.bbc.com/sport/cycling/articles/cx2vld6yl3no?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 10:25:03 GMT
+   Description: Paris-Roubaix's remains elite's sport's most volatile journey of daring and dust. And the Hell of the North is the one race legend Tadej Pogacar still can't win.
+   Sentiment: positive (score=0.142)
+
+36. Liverpool can do special things against PSG - Slot
+   Link: https://www.bbc.com/sport/football/articles/c203ly4y5zeo?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 17:55:34 GMT
+   Description: Liverpool boss Arne Slot on why his side believe they can overcome a two-goal deficit against reigning champions Paris St-Germain in the Champions League on Tuesday.
+   Sentiment: positive (score=0.357)
+
+37. Anderson inspires Lancashire to dramatic win
+   Link: https://www.bbc.com/sport/cricket/articles/cy01378w4jxo?at_medium=RSS&at_campaign=rss
+   Published: Mon, 13 Apr 2026 14:28:48 GMT
+   Description: James Anderson takes 4-18 as Lancashire dismiss Derbyshire for 108 to win by 29 runs at Old Trafford.
+   Sentiment: positive (score=0.317)
+
