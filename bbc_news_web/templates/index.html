@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>News Sentiment Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>News Sentiment Analyzer</h1>
+        <p>Compare headlines and sentiment across sources.</p>
+
+        <form method="POST" class="search-form">
+            <input
+                type="text"
+                name="topic"
+                placeholder="Enter a topic, e.g. US China clashes"
+                value="{{ topic or '' }}"
+            >
+            <button type="submit">Search News</button>
+        </form>
+
+        {% if topic %}
+            <p class="results-info">Showing results for: <strong>{{ topic }}</strong></p>
+        {% else %}
+            <p class="results-info">Showing default BBC headlines.</p>
+        {% endif %}
+
+        <div class="table-wrapper">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Source</th>
+                        <th>Title</th>
+                        <th>Published</th>
+                        <th>Description</th>
+                        <th>Sentiment</th>
+                        <th>Score</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for article in articles %}
+                    <tr>
+                        <td>{{ article.source }}</td>
+                        <td>
+                            <a href="{{ article.link }}" target="_blank" rel="noopener noreferrer">
+                                {{ article.title }}
+                            </a>
+                        </td>
+                        <td>{{ article.pub_date }}</td>
+                        <td>{{ article.description }}</td>
+                        <td class="{{ article.sentiment_label }}">
+                            {{ article.sentiment_label }}
+                        </td>
+                        <td>{{ article.sentiment_score }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        {% if not articles %}
+            <p>No articles found.</p>
+        {% endif %}
+    </div>
+</body>
+</html>
