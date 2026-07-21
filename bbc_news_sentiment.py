@@ -14,7 +14,7 @@ except ImportError:
 
 
 TODAY = date.today()
-OUTPUT_DIR = Path("/Users/sujaymuramalla/Documents/Projects/python_training/output_bbc")
+OUTPUT_DIR = Path("/c/Projects/python_training/output_bbc")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 TXT_FILE = OUTPUT_DIR / f"bbc_news_topics_{TODAY}.txt"
